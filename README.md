@@ -40,30 +40,4 @@ To get started with the Task Management API, follow these steps:
 
 5. Access the API endpoints using tools like cURL, Postman, or any other HTTP client.
 
-## API Documentation
 
-The API documentation can be found in the [docs](/docs) directory. It provides detailed information about each endpoint, including the request and response formats, authentication requirements, and sample API calls.
-
-## Testing
-
-Unit tests for critical functionalities are included in the [tests](/tests) directory. You can run these tests to ensure the API is working as expected. Additional tests can be added as needed.
-
-## Deployment
-
-To deploy the API to a cloud platform like Heroku or AWS, follow the deployment instructions provided in the [deployment](/deployment) directory. These instructions will guide you through the necessary steps to deploy the API and make it accessible to users.
-
-## Logging and Monitoring
-
-The API includes logging and monitoring mechanisms to track API usage, detect errors, and monitor performance metrics. Logs are stored in the [logs](/logs) directory, and monitoring tools can be integrated as per your requirements.
-
-## Contributing
-
-If you would like to contribute to the development of this project, please follow the guidelines provided in the [CONTRIBUTING](/CONTRIBUTING.md) file. Contributions are always welcome and greatly appreciated.
-
-## License
-
-This project is licensed under the [MIT License](/LICENSE). Feel free to modify and distribute it according to the terms of the license.
-
-Please note that this README file provides a general overview of the Task Management API
-
-. For more detailed instructions and information, refer to the relevant files and directories in the repository.
