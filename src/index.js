@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 app.use(bodyParser.json());
 
 mongoose.set("strictQuery", false);
-mongoose.connect("mongodb+srv://Chetan_ProjectClustor:PNr1Fn8OcRu2cGmk@project1.h4p8xqh.mongodb.net/group9Database", { useNewUrlParser: true })
+mongoose.connect("mongodb+srv://Soumyaranjan:utnipsom@soumya-db.3rzvirb.mongodb.net/task-management", { useNewUrlParser: true })
 .then(() => console.log("Mongo db is connected"))
 .catch(err => console.log(err))
 
